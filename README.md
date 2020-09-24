@@ -1,4 +1,4 @@
 # BackToTheFuture
 Just another neovim colorscheme
 Preview
-![preview] (./assets/preview.png)
+![preview](./assets/preview.png)
