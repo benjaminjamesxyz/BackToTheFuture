@@ -7,5 +7,5 @@ Just another neovim colorscheme<br><br>
 
 1. Add `colorscheme BackToTheFuture` to `~/.vimrc` or `~/.config/nvim/init.vim`
 2. Add the following to your `~/.vimrc` or `~/.config/nvim/init.vim` file and run `PlugInstall` in Vim.
-    `Plug 'benjaminjamesxyz/BackToTheFuture'`
+    `<br/> Plug 'benjaminjamesxyz/BackToTheFuture'`
 3. Restart vim 
